@@ -1,6 +1,6 @@
 ### Introduction
 
-This is a school exercise cloned from https://github.com/juhahinkula/todoteststarter.git. 
+This school exercise, completed on 23 April 2023, was cloned from https://github.com/juhahinkula/todoteststarter.git
 
 The tasks include: 
 1. Testing two cases.
